@@ -1,0 +1,21 @@
+{
+  "name": "neki",
+  "displayName": "Neki",
+  "description": "Neki theme, inpired by Panda & Material Palenight themes",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.56.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "neki",
+        "uiTheme": "vs-dark",
+        "path": "./themes/neki-color-theme.json"
+      }
+    ]
+  }
+}
